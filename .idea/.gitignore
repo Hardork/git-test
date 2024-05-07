@@ -1,0 +1,16 @@
+# Default ignored files
+/shelf/
+/git-test.iml
+../.idea
+/compiler.xml
+/encodings.xml
+/misc.xml/
+vcs.xml
+jarRepositories.xml
+git-test.iml
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
